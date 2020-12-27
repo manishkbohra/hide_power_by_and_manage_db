@@ -1,5 +1,3 @@
-<!--Copyright 2020 Manish Kumar Bohra <manishbohra1994@gmail.com> or <manishkumarbohra@outlook.com> -->
-<!-- License LGPL-3 - See http://www.gnu.org/licenses/Lgpl-3.0.html -->
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
     <template id="login_layout_hide_powered_by_and_manage_db" inherit_id="web.login_layout" name="Login Layout">
