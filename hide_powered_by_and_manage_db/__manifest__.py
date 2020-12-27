@@ -3,7 +3,7 @@
 
 {
     'name': 'Hide Powered by and Manage DB Link',
-    'version': '13.0',
+    'version': '1.0',
     'summary': 'This module allows hide powered by and manage DB link from the login page',
     'description': 'This module allows hide powered by and manage DB link from the login page',
     'category': 'Other',
