@@ -4,7 +4,7 @@
 {
     'name': 'Hide Powered by and Manage DB Link',
     'version': '1.0',
-    'summary': 'Magento,magento2,odoo Magento, Magento connector, odoo Magento connector, odoo Magento 2 connector, connector,odoo connector',
+    'summary': 'This module allows hide powered by and manage DB link from the login page',
     'description': 'This module allows hide powered by and manage DB link from the login page',
     'category': 'Other',
     'author': 'Manish Bohra',
