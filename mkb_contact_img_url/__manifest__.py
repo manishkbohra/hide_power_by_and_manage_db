@@ -16,7 +16,7 @@
     "data": [
         'views/res_partner.xml',
     ],
-    'images': ['static/description/contact_img_url.png'],
+    'images': ['static/description/banner.png'],
     'depends': ['base','contacts'],
     'installable': True,
     'auto_install': False,
