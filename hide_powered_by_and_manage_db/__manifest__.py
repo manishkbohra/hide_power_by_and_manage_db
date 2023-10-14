@@ -16,7 +16,7 @@
     "data": [
         'views/webclient_templates.xml',
     ],
-    'images': ['static/description/hide_link.png'],
+    'images': ['static/description/banner.png'],
     'depends': ['web'],
     'installable': True,
     'auto_install': False,

@@ -16,7 +16,7 @@
     "data": [
         'views/product.xml',
     ],
-    'images': ['static/description/url.gif'],
+    'images': ['static/description/banner.png'],
     'depends': ['stock'],
     'installable': True,
     'auto_install': False,
