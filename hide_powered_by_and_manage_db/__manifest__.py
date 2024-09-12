@@ -16,8 +16,6 @@
     "data": [
         'views/webclient_templates.xml',
     ],
-    'price': 1,
-    'currency': 'EUR',
     'images': ['static/description/banner.png'],
     'depends': ['web'],
     'installable': True,
