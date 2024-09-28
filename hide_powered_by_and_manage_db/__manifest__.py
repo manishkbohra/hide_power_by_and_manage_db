@@ -7,7 +7,7 @@
     'summary': 'This module allows hide powered by and manage DB link from the login page',
     'description': 'This module allows hide powered by and manage DB link from the login page',
     'category': 'Other',
-    'author': 'Manish Bohra',
+    'author': 'SunArc Technologies',
     'website': 'www.linkedin.com/in/manishkumarbohra',
     'maintainer': 'Manish Bohra',
     'support': 'manishkumarbohra@outlook.com',
