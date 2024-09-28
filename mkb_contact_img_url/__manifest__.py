@@ -3,12 +3,13 @@
 
 {
     'name': 'Contact Image From URL',
-    'version': '16.0',
+    'version': '1.0',
     'summary': 'This module allows you to import conatcts images using URL, Import Image, Import Contacts images',
     'description': 'This module allows you to import contacts images using URL',
     'category': 'Others',
-    'author': 'Manish Bohra',
-    'website': 'www.linkedin.com/in/manishkumarbohra',
+    'author': 'SunArc Technologies, Manish Bohra',
+    'website': 'www.sunarctechnologies.com',
+    #'website': 'www.linkedin.com/in/manishkumarbohra',
     'maintainer': 'Manish Bohra',
     'support': 'manishkumarbohra@outlook.com',
     'sequence': '10',
